@@ -14,7 +14,7 @@ public class HoraDoSistema{
 		Date relogio = new Date();
 		
 //saida do meu codigo que serve pra qualquer programa		
-		System.out.println("A hora do sistema é:");
+		System.out.println("A hora do sistema ?:");
 		
 //saida do minha data e a envia pra uma string		
 		System.out.println(relogio.toString());
